@@ -6,6 +6,10 @@ nginx设置
 /usr/local/nginx/sbin/nginx -s reload
 ````
 
+
+静态文件拷贝到nginx.conf中指定的路径中去
+
+
 部署
 ````
 nohup python clock.py &
