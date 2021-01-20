@@ -5,4 +5,4 @@ app = Flask(__name__)
 def adddemo1():
     return render_template('hello.html') 
 if __name__ == '__main__':
-    app.run(port=10071,debug=False)
+    app.run(port=10073,debug=False)
