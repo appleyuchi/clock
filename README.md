@@ -13,4 +13,4 @@ disown -h %1
 ````
 然后就可以关掉远程终端了
 
-[效果展示](https://www.academics.work/clock)
+[效果展示](http://www.academics.work/clock)
